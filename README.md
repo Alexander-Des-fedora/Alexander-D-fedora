@@ -2,7 +2,10 @@
 <h2 align="center"><strong>🛡️ BIENVENIDO A MI PERFIL DE GITHUB</strong></h2>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/215355512?s=400&u=ba74518188666e831e48d452af435cd43ba8d64e&v=4" alt="*ALEXANDER*" width="200"/>
+  <img src="https://avatars.githubusercontent.com/u/215355512?s=400&u=ba74518188666e831e48d452af435cd43ba8d64e&v=4" 
+       alt="*ALEXANDER*" 
+       width="200" 
+       style="border-radius: 100%;"/>
 </p>
 
 ---
