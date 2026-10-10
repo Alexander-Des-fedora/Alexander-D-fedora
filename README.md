@@ -54,7 +54,11 @@ Estoy enfocado en utilizar mis conocimientos en seguridad informática, desarrol
 
 #### 📫 ¿Cómo contactarme?
 
-Escríbeme desde el formulario de contacto en [alexandercodec.com](https://alexandercodec.com).
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-vega-nu%C3%B1ez-28aa0043a/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alexander.vega.n)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/alexander.veganunez.71)
+
+También puedes escribirme desde el formulario de contacto en [alexandercodec.com](https://alexandercodec.com).
 
 ---
 _“El código es como el humor. Cuando tienes que explicarlo, no es tan bueno.”_
