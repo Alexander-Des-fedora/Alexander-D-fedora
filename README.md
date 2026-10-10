@@ -2,7 +2,7 @@
 <h2 align="center"><strong>🛡️ BIENVENIDO A MI PERFIL DE GITHUB</strong></h2>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/215355512?s=400&u=ba74518188666e831e48d452af435cd43ba8d64e&v=4" 
+  <img src="https://github.com/Alexander-Des-fedora.png?size=400" 
        alt="*ALEXANDER*" 
        width="200" 
        style="border-radius: 100%;"/>
@@ -42,13 +42,19 @@ Estoy enfocado en utilizar mis conocimientos en seguridad informática, desarrol
 
 ---
 
+#### 🚀 Proyectos y sitio web
+
+🌐 **Portafolio:** [alexandercodec.com](https://alexandercodec.com)
+📂 **Código del sitio:** [mi-pagina-web](https://github.com/Alexander-Des-fedora/mi-pagina-web)
+
+- **MySocialVault** y **Proyecto Fibonacci**: ciberseguridad y automatización.
+- **Alexander Games**: minijuego web (1 vs 1 y contra IA).
+
+---
+
 #### 📫 ¿Cómo contactarme?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-usuario)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tu-usuario)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tu-usuario)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/tu-usuario)  
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tu-usuario)
+Escríbeme desde el formulario de contacto en [alexandercodec.com](https://alexandercodec.com).
 
 ---
 _“El código es como el humor. Cuando tienes que explicarlo, no es tan bueno.”_
